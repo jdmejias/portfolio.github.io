@@ -23,8 +23,7 @@ const Footer = () => {
         </div>
 
         <Link
-          href="https://devdreaming.com/about"
-          target="_blank"
+          href="mailto:jhon0303@javerianacali.edu.co"
           className="underline underline-offset-2"
         >
           Say Hello
