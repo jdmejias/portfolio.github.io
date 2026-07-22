@@ -52,7 +52,6 @@ const Skills = () => {
           {/* Middle Circle (Support) */}
           <Skill name="Data Visualization" x="-25vw" y="-12vw" />
           <Skill name="Scikit-learn" x="25vw" y="-14vw" />
-          <Skill name="Pandas" x="-20vw" y="18vw" />
           <Skill name="AWS" x="22vw" y="16vw" />
           <Skill name="REST APIs" x="0vw" y="22vw" />
 
@@ -61,9 +60,8 @@ const Skills = () => {
           <Skill name="JavaScript" x="35vw" y="0vw" />
           <Skill name="HTML" x="-28vw" y="-22vw" />
           <Skill name="CSS" x="28vw" y="-24vw" />
-          <Skill name="Git" x="0vw" y="-25vw" />
+          <Skill name="Git" x="0vw" y="-18vw" />
           <Skill name="Docker" x="-35vw" y="12vw" />
-          <Skill name="TensorFlow" x="32vw" y="24vw" />
     </div></>
   );
 };
